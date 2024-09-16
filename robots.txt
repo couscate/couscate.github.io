@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://couscate.github.io/sitemap.html.gz
+Sitemap: https://couscate.github.io/app/sitemap.html.gz
+Sitemap: https://couscate.github.io/assets/sitemap.html.gz
+Sitemap: https://couscate.github.io/css/sitemap.html.gz
+Sitemap: https://couscate.github.io/includes/sitemap.html.gz
+Sitemap: https://couscate.github.io/item/sitemap.html.gz
+Sitemap: https://couscate.github.io/src/sitemap.html.gz
